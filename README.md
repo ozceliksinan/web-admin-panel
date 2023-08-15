@@ -1,4 +1,4 @@
-# Admin Panel
+## Web Admin Panel
 
 Upload the files to the server to use the admin panel.
 
