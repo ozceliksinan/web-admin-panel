@@ -23,7 +23,3 @@ define('DBNAME','panel');       // database name
 
 Admin panel login username: sinanozcelik
 Admin panel login password: sinan123
-
-Contact e-mail for any question: info@sinanozcelik.com
-
-For more: sinanozcelik.com
