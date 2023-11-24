@@ -5,7 +5,9 @@
         <img src="dimg/admins/<?php echo $_SESSION['admins']['admins_file']; ?>" class="img-circle" alt="User Image">
       </div>
       <div class="pull-left info">
-        <p><?php echo $_SESSION['admins']['admins_namesurname']; ?></p>
+        <p>
+          <?php echo $_SESSION['admins']['admins_namesurname']; ?>
+        </p>
         <a href="#"> Yönetici</a>
       </div>
     </div>

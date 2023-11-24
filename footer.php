@@ -1,6 +1,10 @@
 <footer class="main-footer">
-	<div class="pull-right hidden-xs"><?php echo $settings['email']; ?></div>
-	<strong><?php echo $settings['copyright']; ?></strong>
+	<div class="pull-right hidden-xs">
+		<?php echo $settings['email']; ?>
+	</div>
+	<strong>
+		<?php echo $settings['copyright']; ?>
+	</strong>
 </footer>
 <div class="control-sidebar-bg"></div>
 </div>
@@ -12,4 +16,5 @@
 <script src="bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 </body>
+
 </html>
